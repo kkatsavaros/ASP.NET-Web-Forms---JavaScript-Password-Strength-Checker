@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0cf12c2-79d2-4414-8119-0ff25f9a3215": {
+      "ProjectGuid": "f0cf12c2-79d2-4414-8119-0ff25f9a3215",
+      "DisplayName": "011.JavaScriptPasswordStrengthChecker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
